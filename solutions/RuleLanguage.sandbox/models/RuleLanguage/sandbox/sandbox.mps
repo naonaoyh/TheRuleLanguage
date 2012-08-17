@@ -51,14 +51,12 @@
       <node role="enum" roleId="qyl7.8913574631218993097" type="qyl7.Enum" typeId="qyl7.8913574631218993089" id="5662994479867072989">
         <property name="name" nameId="tpck.1169194664001" value="人保" />
       </node>
-      <node role="enum" roleId="qyl7.8913574631218993097" type="qyl7.Enum" typeId="qyl7.8913574631218993089" id="5662994479867072990" />
       <node role="enum" roleId="qyl7.8913574631218993097" type="qyl7.Enum" typeId="qyl7.8913574631218993089" id="5662994479867072991">
         <property name="name" nameId="tpck.1169194664001" value="基督教" />
       </node>
       <node role="enum" roleId="qyl7.8913574631218993097" type="qyl7.Enum" typeId="qyl7.8913574631218993089" id="5662994479867072992">
         <property name="name" nameId="tpck.1169194664001" value="姐姐诶" />
       </node>
-      <node role="enum" roleId="qyl7.8913574631218993097" type="qyl7.Enum" typeId="qyl7.8913574631218993089" id="5662994479867033292" />
     </node>
     <node role="rule" roleId="qyl7.2520060712785081819" type="qyl7.Rule" typeId="qyl7.2520060712785081818" id="8913574631218973405">
       <node role="action" roleId="qyl7.2520060712785087937" type="qyl7.Action" typeId="qyl7.2520060712785087935" id="8913574631218974560" />
