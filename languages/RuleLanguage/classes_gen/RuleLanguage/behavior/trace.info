@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="Action_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="RuleLanguage.behavior.Action_BehaviorDescriptor" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="46" endPosition="0" unitName="RuleLanguage.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="BooleanRuleData_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="RuleLanguage.behavior.BooleanRuleData_BehaviorDescriptor" />
+  <unitInfo fileName="Condition_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="RuleLanguage.behavior.Condition_BehaviorDescriptor" />
+  <unitInfo fileName="EnumRuleDate_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="RuleLanguage.behavior.EnumRuleDate_BehaviorDescriptor" />
+  <unitInfo fileName="Enum_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="RuleLanguage.behavior.Enum_BehaviorDescriptor" />
+  <unitInfo fileName="NumberRuleData_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="RuleLanguage.behavior.NumberRuleData_BehaviorDescriptor" />
+  <unitInfo fileName="RuleDataRefrence_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="RuleLanguage.behavior.RuleDataRefrence_BehaviorDescriptor" />
+  <unitInfo fileName="RuleDataValidDependRefrence_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="RuleLanguage.behavior.RuleDataValidDependRefrence_BehaviorDescriptor" />
+  <unitInfo fileName="RuleData_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="RuleLanguage.behavior.RuleData_BehaviorDescriptor" />
+  <unitInfo fileName="RuleDateFilterbyRefrence_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="RuleLanguage.behavior.RuleDateFilterbyRefrence_BehaviorDescriptor" />
+  <unitInfo fileName="RuleSet_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="RuleLanguage.behavior.RuleSet_BehaviorDescriptor" />
+  <unitInfo fileName="Rule_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="RuleLanguage.behavior.Rule_BehaviorDescriptor" />
+  <root nodeId="4830202200594607258">
+    <nodeInfo nodeId="4830202200594607258" fileName="RuleData_Behavior.java" startLine="7" startPosition="32" endLine="10" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" propertyString="init#(Ljetbrains/mps/smodel/SNode;)V" />
+    <scopeInfo nodeId="4830202200594607260" fileName="RuleData_Behavior.java" startLine="8" startPosition="43" endLine="8" endPosition="43" />
+    <scopeInfo nodeId="4830202200594607258" fileName="RuleData_Behavior.java" startLine="7" startPosition="32" endLine="10" endPosition="0">
+      <varInfo nodeId="4830202200594607258" varName="thisNode" />
+    </scopeInfo>
+    <unitInfo nodeId="4830202200594607258" fileName="RuleData_Behavior.java" startLine="7" startPosition="0" endLine="11" endPosition="0" unitName="RuleLanguage.behavior.RuleData_Behavior" />
+  </root>
+</debugInfo>
+

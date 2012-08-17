@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="qyl7" modelUID="r:6762ce5c-84b1-458e-bd95-2a5d4d5e0e14(RuleLanguage.structure)" version="-1" />
+    </dependencies>
+    <rename id="qyl7.8913574631218975132" type="CONCEPT" from="En" to="EnumRuleDate" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="qyl7" modelUID="r:6762ce5c-84b1-458e-bd95-2a5d4d5e0e14(RuleLanguage.structure)" version="0" />
+    </dependencies>
+    <rename id="qyl7.5662994479867033294" type="REFERENCE" from="filterbyDate" to="filterby" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="qyl7" modelUID="r:6762ce5c-84b1-458e-bd95-2a5d4d5e0e14(RuleLanguage.structure)" version="1" />
+    </dependencies>
+    <rename id="qyl7.5662994479867066386" type="REFERENCE" from="dependOnData" to="dependOn" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="qyl7" modelUID="r:6762ce5c-84b1-458e-bd95-2a5d4d5e0e14(RuleLanguage.structure)" version="2" />
+    </dependencies>
+    <rename id="qyl7.4029879619979844398" type="CHILD" from="ruleDataRefrence" to="dependOn" />
+  </StructureModification>
+</history>
+

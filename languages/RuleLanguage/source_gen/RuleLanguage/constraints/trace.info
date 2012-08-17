@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="ConstraintsAspectDescriptor.java" startLine="9" startPosition="0" endLine="25" endPosition="0" unitName="RuleLanguage.constraints.ConstraintsAspectDescriptor" />
+  <root nodeId="4830202200594607242">
+    <nodeInfo nodeId="4830202200594607242" fileName="RuleData_Constraints.java" startLine="8" startPosition="33" endLine="9" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+    <nodeInfo nodeId="4830202200594607242" fileName="RuleData_Constraints.java" startLine="7" startPosition="69" endLine="10" endPosition="3" conceptFqName="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" propertyString="RuleData_Constraints#()V" />
+    <scopeInfo nodeId="4830202200594607242" fileName="RuleData_Constraints.java" startLine="8" startPosition="33" endLine="9" endPosition="45" />
+    <scopeInfo nodeId="4830202200594607242" fileName="RuleData_Constraints.java" startLine="7" startPosition="69" endLine="10" endPosition="3" />
+    <unitInfo nodeId="4830202200594607242" fileName="RuleData_Constraints.java" startLine="7" startPosition="0" endLine="12" endPosition="0" unitName="RuleLanguage.constraints.RuleData_Constraints" />
+  </root>
+</debugInfo>
+
